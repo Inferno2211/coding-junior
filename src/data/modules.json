@@ -1,0 +1,68 @@
+[
+    {
+        "moduleTitle": "Course Introduction",
+        "subModules": [
+            "Introduction",
+            "Downloading Blender",
+            "Settings and Preferences",
+            "Blender Interface"
+        ]
+    },
+    {
+        "moduleTitle": "Basics of Blender 3D",
+        "subModules": [
+            "Basic Transformations",
+            "Object Mode vs Edit Mode",
+            "Viewport Navigation"
+        ]
+    },
+    {
+        "moduleTitle": "Mesh Modeling",
+        "subModules": [
+            "Creating a Mesh",
+            "Editing Mesh Geometry",
+            "Extruding Faces"
+        ]
+    },
+    {
+        "moduleTitle": "Modifiers",
+        "subModules": [
+            "Subdivision Surface Modifier",
+            "Mirror Modifier",
+            "Boolean Modifier"
+        ]
+    },
+    {
+        "moduleTitle": "Mesh Editing Operations",
+        "subModules": [
+            "Loop Cuts",
+            "Knife Tool",
+            "Edge Split",
+            "Vertex Groups"
+        ]
+    },
+    {
+        "moduleTitle": "Most Common Modifiers",
+        "subModules": [
+            "Edge Split Modifier",
+            "Solidify Modifier",
+            "Array Modifier"
+        ]
+    },
+    {
+        "moduleTitle": "Orthographic References",
+        "subModules": [
+            "Setting Up Orthographic Views",
+            "Using Reference Images",
+            "Aligning Models to References"
+        ]
+    },
+    {
+        "moduleTitle": "Sculpting",
+        "subModules": [
+            "Basic Sculpting Tools",
+            "Dynamic Topology",
+            "Detailing and Refinement"
+        ]
+    }
+]
