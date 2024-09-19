@@ -1,7 +1,12 @@
 import React, { useState } from 'react';
 import { FaChevronDown } from 'react-icons/fa';
 
-const QuestionAndAnswer = ({ question, answer }) => {
+interface QuestionAndAnswerProps {
+    question: string;
+    answer: string;
+}
+
+const QuestionAndAnswer: React.FC<QuestionAndAnswerProps> = ({ question, answer }) => {
     const [isOpen, setIsOpen] = useState(false);
 
     const toggleAnswer = () => {

@@ -73,12 +73,11 @@ const Hero = () => {
       <div className="mt-6">
         <p className="font-bold text-2xl text-gray-800 mb-2">Description</p>
         <p className="w-[800px] font-light text-gray-600 text-lg">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur
-          itaque reiciendis modi autem fuga? Saepe eligendi laudantium dolorum,
-          ad ipsum mollitia corrupti natus temporibus labore iure nesciunt
-          itaque vel repudiandae! Ipsum, ullam! Tenetur excepturi nemo suscipit
-          tempora dignissimos iste nulla nobis error aspernatur doloremque, enim
-          eos.
+        Welcome to the exciting world of Blender 301 In this comprehensive course, 
+        we will dive into the fundamentals of Blender equipping you with the essential 
+        knowledge and skills to create stunning 30 projects. Whether you're a beginner eager 
+        to explore the resim of 30 modeling or an experienced artist looking to expand your 
+        capabilities, this course will guide you every step of the way
         </p>
       </div>
 
