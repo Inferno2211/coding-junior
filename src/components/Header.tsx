@@ -2,7 +2,7 @@ import { CiHeart, CiShoppingBasket, CiBellOn } from "react-icons/ci";;
 
 const Header = () => {
   return (
-    <header className="bg-main-dark text-white py-4 px-6 flex items-center justify-between sticky top-0 rounded-t-[20px] shadow-md w-full">
+    <header className="bg-main-dark text-white py-4 px-6 flex items-center justify-between fixed top-0 rounded-t-[20px] shadow-md w-full z-10">
       {/* Left Side: Logo or Title */}
       <div className="flex items-center">
         <button className="mr-4 focus:outline-none">

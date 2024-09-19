@@ -1,0 +1,14 @@
+[
+    {
+        "image": "https://via.placeholder.com/80", 
+        "title": "Stylize",
+        "author": "Julie",
+        "rating": 4.8
+    },
+    {
+        "image": "https://via.placeholder.com/80", 
+        "title": "Geometry",
+        "author": "John",
+        "rating": 4.5
+    }
+]

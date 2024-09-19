@@ -13,6 +13,7 @@ export default {
       },
       colors: {
         'main-dark': '#151718',
+        'main-purple': '#674eff',
       }
     },
   },
